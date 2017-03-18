@@ -1,0 +1,37 @@
+/*selector {
+            property: value;
+}*/
+
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #334055;
+    /*background: url(https://s-media-cache-ak0.pinimg.com/236x/57/e9/5a/57e95a9ca5224e1b5eacbe3bc601e779.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;*/
+
+
+}
+
+h1 {
+    font-size:48px;
+    color: #68d8cf;
+    text-align: center;
+}
+
+h2 {
+    color: #ffefd5;
+    text-align: center;
+}
+
+ul {
+    color: #fdfde7;
+    margin: auto;
+    width: 90px;
+}
+
+
+
+

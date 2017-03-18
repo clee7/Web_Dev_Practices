@@ -1,0 +1,17 @@
+body {
+    background: #454545;
+}
+
+ul {
+    border: 2px dashed white;
+    color: #ffefd5;
+}
+
+#priority {
+    background-color: lightyellow;
+    color:black;
+}
+
+.completed {
+    text-decoration: line-through;
+}
