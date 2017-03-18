@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Log In Page</title>
+</head>
+<body>
+
+<h1>Register</h1>
+
+<form>
+    <div>
+        <label for="first">First Name:</label>
+        <input id="first" type="text" name="first_name" placeholder="John" required>
+
+        <label for="last">Last Name:</label>
+        <input id="last" type="text" name="last_name" placeholder="Smith" required>
+    </div>
+
+    <div>
+        <label for="gender1">Male</label>
+        <input id="gender1" value="male" type="radio" name="gender">
+        <label for="gender2">Female</label>
+        <input id="gender2" value="female" type="radio" name="gender">
+        <label for="gender3">Other</label>
+        <input id="gender3" value="other" type="radio" name="gender">
+    </div>
+
+    <div>
+        <label for="email">Email:</label>
+        <input id="email" type="email"  placeholder="your email" required>
+
+        <label for="password">Password:</label>
+        <input id="password" type="password" placeholder="your password" pattern=".{5,10}" required="5 to 10 characters">
+    </div>
+
+    <div>
+        <label>Birthday:</label>
+        <select name="Year" title="Year">
+            <option value="year" selected disabled>Year</option>
+            <option value="2017">2017</option>
+            <option value="2016">2016</option>
+        </select>
+        <select name="month" title="Month">
+            <option value="month" selected disabled>Month</option>
+            <option value="jan">January</option>
+            <option value="feb">February</option>
+        </select>
+        <select name="day" title="Day">
+            <option value="day" selected disabled>Day</option>
+            <option value="1">1</option>
+            <option vlaue="1">2</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="condition">I agree to the terms and conditions"</label>
+        <input id="conditions" type="checkbox" name="conditions">
+    </div>
+
+    <div>
+        <input type="submit" value="Submit">
+    </div>
+</form>
+
+</body>
+</html>
