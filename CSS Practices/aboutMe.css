@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #334055;
+    background-color: #f0ffff;
     /*background: url(https://s-media-cache-ak0.pinimg.com/236x/57/e9/5a/57e95a9ca5224e1b5eacbe3bc601e779.jpg);
     background-repeat:no-repeat;
     background-size: cover;*/
@@ -17,17 +17,17 @@ body {
 
 h1 {
     font-size:48px;
-    color: #68d8cf;
+    color: #5f9ea0 ;
     text-align: center;
 }
 
 h2 {
-    color: #ffefd5;
+    color: teal;
     text-align: center;
 }
 
 ul {
-    color: #fdfde7;
+    color: teal;
     margin: auto;
     width: 90px;
 }

@@ -1,15 +1,22 @@
 body {
-    background: #454545;
+    background: cadetblue;
+}
+
+h1 {
+    text-align: center;
+    color:#fffafa;
 }
 
 ul {
     border: 2px dashed white;
-    color: #ffefd5;
+    color: #fffafa;
+    width: 200px;
+    margin: auto;
+    font-size: 18px;
 }
 
 #priority {
-    background-color: lightyellow;
-    color:black;
+    background-color: darkslategray;
 }
 
 .completed {
