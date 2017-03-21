@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap Grid</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+    <style type="text/css">
+        .pink {
+            background: pink;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <!-- GRID: need to be in container -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 pink col-md-6">COL LG 6</div>
+            <div class="col-lg-6 pink col-md-6">COL LG 6</div>
+        </div>
+        <div class="row">
+           <div class="col-lg-2 pink">COL LG 2</div>
+            <div class="col-lg-8 pink">COL LG 8</div>
+            <div class="col-lg-2 pink">COL LG 2</div>
+        </div>
+    </div>
+
+    <!-- Practice -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+        </div>
+    </div>
+
+    <!-- Nesting Grids -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 pink">
+
+                <div class"row">
+                    <div class="col-md-6 pink">Pink</div>
+                    <div class="col-md-6 pink">PINK</div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+            <div class="col-md-3 col-sm-6 pink">PINK</div>
+        </div>
+    </div>
+
+</body>
+</html>

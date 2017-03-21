@@ -1,0 +1,29 @@
+#IMAGE GALLERY
+
+=========================
+Image Links from Unsplash
+=========================
+
+https://images.unsplash.com/photo-1481671703460-040cb8a2d909?dpr=2&auto=compress
+
+https://images.unsplash.com/photo-1435777940218-be0b632d06db?dpr=2&amp
+
+https://images.unsplash.com/photo-1463062511209-f7aa591fa72f?dpr=2&auto=compress,format&fit=crop&w=1011&h=661&q=80&cs=tinysrgb&crop=
+
+https://images.unsplash.com/photo-1464454709131-ffd692591ee5?dpr=2&amp;auto=format&amp;fit=crop&amp;w=1199&amp;h=794&amp;q=80&amp;cs=tinysrgb&amp;crop=
+
+https://images.unsplash.com/photo-1453306458620-5bbef13a5bca?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=
+
+https://images.unsplash.com/photo-1474905187624-b3deaf7aa4c2?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=
+
+https://images.unsplash.com/reserve/wrev1ljvQ6KlfyljCQG0_lion.jpg?dpr=2&auto=format&fit=crop&w=1199&h=794&q=80&cs=tinysrgb&crop=
+
+https://images.unsplash.com/photo-1486092642310-0c4e84309adb?dpr=2&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=
+
+https://images.unsplash.com/photo-1483086431886-3590a88317fe?dpr=2&auto=format&fit=crop&w=1199&h=1796&q=80&cs=tinysrgb&crop=
+
+======
+Colors
+======
+Dark Blue: #2c3e50
+Light Gray: #ecf0f1
